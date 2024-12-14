@@ -35,7 +35,7 @@
 
 <h1 align='center'> <img src="./assets/GitHub.gif" width="50px"></img> My Technologies <img src="./assets/labels.webp" width="50px"></img> </h1>
 
-<picture><img align="left" src="./assets/mico.webp" width = 20%></picture>
+<picture><img align="left" src="./assets/mico.webp" width = 230px></picture>
 
 <!--tech stack icons-->
 <h1 align='center'>
