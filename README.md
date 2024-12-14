@@ -32,7 +32,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="./assets/loading.gif">
 <br>
-<br>
 
 <h1 align='center'> <img src="./assets/GitHub.gif" width="50px"></img> My Technologies <img src="./assets/labels.webp" width="50px"></img> </h1>
 
