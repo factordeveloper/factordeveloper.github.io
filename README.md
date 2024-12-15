@@ -5,7 +5,7 @@
 
 <picture><img src = "./assets/hacker.gif" width = 50px></picture> About me
 
-<picture><img align="right" src="./assets/gato_dev.webp" width = 30%></picture>
+<picture><img align="right" src="./assets/gato_dev.webp" width = "30%"></picture>
 
 
 <!--Intro start-->
