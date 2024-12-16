@@ -11,11 +11,13 @@
 <!--Intro start-->
 - 🌐 I’m **Full Stack Web / Mobile Developer**📲
 
-- ☁️ I’m **Cloud Engineer** in **Google Cloud, AWS, Catalyst bu Zoho**
+- ☁️ I’m **Cloud Engineer** in **Google Cloud, AWS, Catalyst by Zoho**
 
 - 💬 Ask me about **Programming, Web, Android Architecture, Cloud, IoT, Edge Computing**
 
 - 🌱 I’m currently learning **Data Science** and **Artificial Intelligence**
+
+- 👨🏻‍💻 I love working with **Google** technologies and I belong to the **(GDG) Google Developer Group** Bogotá 
 
 - 📫 Feel free to reach me out **<a href="mailto:felipeherrerapinzon@gmail.com" target="blank">felipeherrerapinzon@gmail.com</a>**
 
