@@ -17,7 +17,9 @@
 
 - 🌱 I’m currently learning **Data Science** and **Artificial Intelligence**
 
-- 👨🏻‍💻 I love working with **Google** technologies and I belong to the **(GDG) Google Developer Group** Bogotá 
+- 🦖I love working with **Google** technologies
+
+- 👨🏻‍💻 I belong to the **(GDG) Google Developer Group** Bogotá
 
 - 📫 Feel free to reach me out **<a href="mailto:felipeherrerapinzon@gmail.com" target="blank">felipeherrerapinzon@gmail.com</a>**
 
